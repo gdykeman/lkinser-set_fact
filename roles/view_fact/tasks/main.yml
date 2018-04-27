@@ -1,0 +1,4 @@
+---
+# tasks file for view_fact
+- debug:
+    msg: "{{password}}"

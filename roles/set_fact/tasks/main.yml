@@ -1,0 +1,4 @@
+---
+# tasks file for set_fact
+- set_fact:
+    password: ansible
